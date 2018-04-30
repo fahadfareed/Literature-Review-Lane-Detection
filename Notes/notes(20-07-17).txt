@@ -1,0 +1,45 @@
+	1- Variable grid 
+		- For 4960 images, generate data. (5 pm, Friday) (DONE)
+		- Model training: (DONE)
+			- 40x71
+			- 80x142
+			- 120x213
+			- 170x300
+			- 200x356
+			- one more size
+
+			- Different folders for models (12pm, Friday) U
+
+		- MSE calculations and figure out the highest MSE that gives accurate lanes.
+		(4pm, Saturday) U
+
+		- Original algorithm clean up.
+		- Code clean up.
+		- Latency comparison. (12pm, Saturday) U
+
+	2- 	- Udacity visualization applicable to model results. (5pm, Saturday) M
+
+		- Figures
+			- Figure out plotting tools
+			- Standards 									(9pm, Sunday) M
+
+		- Block diagrams									(12pm, Monday) M
+		- Model Visualisation								(12pm, Wednesday) M
+		- Results Display									( --- ) M
+
+	3- 	Snow Model and Data Collection
+
+		- Data Collection									
+
+			- Collect simulatenous data for snowy and normal conditions.
+			- Editing of videos.
+			- Parallel stream (snow -> without snow)		(9pm, Saturday) M,S,F
+		
+		- Determine ground truth
+			- apply lane detection
+			- cleaning up									
+
+		- Grid.												(9pm, Sunday) U
+
+		- Apply model.										(11pm, Tuesday) S
+		
